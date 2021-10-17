@@ -10,11 +10,11 @@ digits 0 to 9 based on the state of the pixels in the images.
 ## Requirement
 To complete this assignment you will need to use C++ to write a program the uses the Naive
 Bayes Algorithm described above to classify the provided images. This program should run on the
-command line and must have some interface to implement at least the following features.
-• Read training data from files and generate a model
-• Save a model as a file
-• Load a model from a file
-• Classify images from a file
+command line and must have some interface to implement at least the following features. <br>
+• Read training data from files and generate a model <br>
+• Save a model as a file <br>
+• Load a model from a file <br>
+• Classify images from a file <br>
 The interface you design to allow the user to accomplish these tasks is up to you but is expected to
 run correctly from the command line.
 Remember to plan your assignment out before writing it and breaking it apart into the appropriate
